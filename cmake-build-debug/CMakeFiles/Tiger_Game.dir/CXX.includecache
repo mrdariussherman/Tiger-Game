@@ -1,0 +1,118 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Alphabet.h
+SDL_Plotter.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/SDL_Plotter.h
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Circle.h
+iostream
+-
+SDL_Plotter.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/SDL_Plotter.h
+cmath
+-
+Global.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Global.h
+Point.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Point.h
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Confetti.h
+iostream
+-
+SDL_Plotter.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/SDL_Plotter.h
+Circle.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Circle.h
+ctime
+-
+string
+-
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Draw.h
+Global.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Global.h
+Point.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Point.h
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Global.h
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Men.h
+iostream
+-
+SDL_Plotter.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/SDL_Plotter.h
+Circle.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Circle.h
+Point.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Point.h
+Draw.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Draw.h
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Plot.h
+iostream
+-
+vector
+-
+cmath
+-
+Point.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Point.h
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Point.h
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/SDL_Plotter.h
+SDL2/SDL.h
+-
+SDL2_mixer/SDL_mixer.h
+-
+SDL2/SDL_thread.h
+-
+string.h
+-
+iostream
+-
+string
+-
+string.h
+-
+map
+-
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Tiger.h
+iostream
+-
+Point.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Point.h
+Circle.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Circle.h
+
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/main.cpp
+iostream
+-
+Alphabet.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Alphabet.h
+Circle.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Circle.h
+Confetti.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Confetti.h
+Draw.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Draw.h
+Global.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Global.h
+Men.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Men.h
+Plot.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Plot.h
+Point.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Point.h
+SDL_Plotter.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/SDL_Plotter.h
+Tiger.h
+/Users/Darius/Desktop/CSI 3334/Projects/Tiger_Game/Tiger.h
+
